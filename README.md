@@ -2,16 +2,6 @@
 
 This project implements a real-time indian sign language recognition system using convolutional neural networks (CNN) and hand landmarks detected via MediaPipe. The goal is to classify different hand gestures into corresponding sign language characters. (sign language -> English)
 
-## Table of Contents
-- [Technologies Used](#technologies-used)
-- [Project Structure](#project-structure)
-- [Setup Instructions](#setup-instructions)
-- [How It Works](#how-it-works)
-- [Dataset Collection](#dataset-collection)
-- [Model Training](#model-training)
-- [Testing and Evaluation](#testing-and-evaluation)
-- [Usage](#usage)
-
 ## Project Structure
 ```
 ├── own-data/label              # Directory for storing labeled hand gesture images
